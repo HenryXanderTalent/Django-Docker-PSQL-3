@@ -29,4 +29,9 @@ make sure manage.py is in the top app dir
 docker-compose build
 docker-compose up
 
+run Python manage.py migrate or add it to the command line in yml file
+
+python manage.py createsuperuser to see crud in the browser
+
+
 
