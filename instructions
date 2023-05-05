@@ -15,10 +15,11 @@ python3 -m venv .venv
 
 create directory called app
 
+pip install django
+
 -from within the app dir run this command
 django-admin startproject app .
 
-pip install django
 pip install django-framework
 pip3 install djangorestframework
 
